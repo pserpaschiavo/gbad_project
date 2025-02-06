@@ -1,0 +1,323 @@
+[
+    {
+        "vertex": {
+            "id": "1",
+            "attributes": {
+                "label": "NormalNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "2",
+            "attributes": {
+                "label": "NormalNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "3",
+            "attributes": {
+                "label": "NormalNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "4",
+            "attributes": {
+                "label": "NormalNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "5",
+            "attributes": {
+                "label": "NormalNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "6",
+            "attributes": {
+                "label": "NormalNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "7",
+            "attributes": {
+                "label": "NormalNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "8",
+            "attributes": {
+                "label": "NormalNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "9",
+            "attributes": {
+                "label": "NormalNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "10",
+            "attributes": {
+                "label": "NormalNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "1",
+            "source": "9",
+            "target": "10",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "2",
+            "source": "2",
+            "target": "8",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "3",
+            "source": "2",
+            "target": "6",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "4",
+            "source": "2",
+            "target": "6",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "5",
+            "source": "7",
+            "target": "6",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "6",
+            "source": "2",
+            "target": "5",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "7",
+            "source": "8",
+            "target": "9",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "8",
+            "source": "5",
+            "target": "10",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "9",
+            "source": "9",
+            "target": "8",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "10",
+            "source": "1",
+            "target": "5",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "11",
+            "source": "3",
+            "target": "4",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "12",
+            "source": "1",
+            "target": "2",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "13",
+            "source": "3",
+            "target": "4",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "14",
+            "source": "2",
+            "target": "8",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "15",
+            "source": "7",
+            "target": "5",
+            "attributes": {
+                "label": "NormalConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "11",
+            "attributes": {
+                "label": "AnomalyNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "12",
+            "attributes": {
+                "label": "AnomalyNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "vertex": {
+            "id": "13",
+            "attributes": {
+                "label": "AnomalyNode"
+            },
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "16",
+            "source": "11",
+            "target": "9",
+            "attributes": {
+                "label": "AnomalyConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    },
+    {
+        "edge": {
+            "id": "17",
+            "source": "11",
+            "target": "2",
+            "attributes": {
+                "label": "AnomalyConnection"
+            },
+            "directed": "false",
+            "timestamp": "1"
+        }
+    }
+]
